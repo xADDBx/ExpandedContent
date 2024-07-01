@@ -35,8 +35,8 @@
         <PackageReference Include="BepInEx.AssemblyPublicizer.MSBuild" IncludeAssets="build; contentfiles" Version="0.4.2" PrivateAssets="all" />
         <PackageReference Include="ModKit" version="1.0.8" />
         <PackageReference Include="WW-Blueprint-Core" version="2.8.0" />
-		<PackageReference Include="Microsoft.Bcl.AsyncInterfaces" version="6.0.0" />
-		<PackageReference Include="Newtonsoft.Json" version="13.0.1" />
+        <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" version="6.0.0" />
+        <PackageReference Include="Newtonsoft.Json" version="13.0.1" />
     </ItemGroup>
     <ItemGroup>
         <Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\Unity*.dll" Private="false" />
@@ -46,9 +46,9 @@
         <Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\Assembly-CSharp.dll*" Publicize="true" Private="false" />
         <Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\DOTween*" Private="false" />
         <Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\UniRx.dll*" Private="false" />
-		<Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\UnityModManager\UnityModManager.dll*" Publicize="true" Private="false" />
-		<Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\UnityModManager\0Harmony.dll*" Private="false" />
-		<Reference Include="$(WrathInstallDir)\Mods\TabletopTweaks-Core\TabletopTweaks-Core*.dll" Private="false" />
+        <Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\UnityModManager\UnityModManager.dll*" Publicize="true" Private="false" />
+        <Reference Include="$(WrathInstallDir)\Wrath_Data\Managed\UnityModManager\0Harmony.dll*" Private="false" />
+        <Reference Include="$(WrathInstallDir)\Mods\TabletopTweaks-Core\TabletopTweaks-Core*.dll" Private="false" />
     </ItemGroup>
     <ItemGroup>
         <None Include="..\.editorconfig">
