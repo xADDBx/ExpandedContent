@@ -2,7 +2,7 @@
 using Kingmaker.Blueprints.Facts;
 using Kingmaker.Blueprints.JsonSystem;
 using Kingmaker.UnitLogic.Buffs.Blueprints;
-
+/*
 namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
     [AllowedOn(typeof(BlueprintUnitFact), false)]
     [AllowedOn(typeof(BlueprintBuff), false)]
@@ -11,3 +11,4 @@ namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
     public class TTResistEnergyContext : TTAddDamageResistanceEnergy {
     }
 }
+*/

@@ -48,7 +48,7 @@ using Kingmaker.UnitLogic.Abilities.Components.AreaEffects;
 using Kingmaker.UnitLogic.ActivatableAbilities.Restrictions;
 
 
-
+/*
 namespace ExpandedContent.Tweaks.Mysteries {
     internal class ShadowMystery {
         public static void AddShadowMystery() {
@@ -1016,3 +1016,4 @@ namespace ExpandedContent.Tweaks.Mysteries {
         }
     }
 }
+*/

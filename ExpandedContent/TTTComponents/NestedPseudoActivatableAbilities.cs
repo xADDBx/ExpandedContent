@@ -1,6 +1,7 @@
 ﻿using Kingmaker;
 using Kingmaker.Blueprints;
 using Kingmaker.Blueprints.JsonSystem;
+/*
 using Kingmaker.Blueprints.Validation;
 using Kingmaker.Items;
 using Kingmaker.Items.Slots;
@@ -48,3 +49,4 @@ namespace TabletopTweaks.NewComponents {
         public BlueprintAbilityReference[] m_Variants;
     }
 }
+*/

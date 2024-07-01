@@ -4,7 +4,7 @@ using Kingmaker.EntitySystem.Entities;
 using Kingmaker.UnitLogic;
 using Kingmaker.UnitLogic.ActivatableAbilities;
 using TabletopTweaks.Config;
-
+/*
 namespace TabletopTweaks.MechanicsChanges {
     class ActivatableResourceFreeResourceLogic {
 
@@ -63,3 +63,4 @@ namespace TabletopTweaks.MechanicsChanges {
         }
     }
 }
+*/

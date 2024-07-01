@@ -2,6 +2,7 @@
 using Kingmaker.Blueprints.Facts;
 using Kingmaker.Blueprints.Items.Weapons;
 using Kingmaker.Blueprints.JsonSystem;
+/*
 using Kingmaker.Blueprints.Validation;
 using Kingmaker.Enums.Damage;
 using Kingmaker.Items;
@@ -129,3 +130,4 @@ namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
         }
     }
 }
+*/

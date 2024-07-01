@@ -6,7 +6,7 @@ using Kingmaker.UnitLogic.Abilities.Blueprints;
 using Kingmaker.UnitLogic.Abilities.Components.Base;
 using Kingmaker.Utility;
 using System;
-
+/*
 namespace TabletopTweaks.NewComponents {
 
     [AllowedOn(typeof(BlueprintAbility))]
@@ -38,3 +38,4 @@ namespace TabletopTweaks.NewComponents {
         }
     }
 }
+*/

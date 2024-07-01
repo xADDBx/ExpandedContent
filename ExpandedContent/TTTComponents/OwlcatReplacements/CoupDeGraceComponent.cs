@@ -12,6 +12,7 @@ using Kingmaker.UnitLogic.Abilities.Blueprints;
 using Kingmaker.UnitLogic.Abilities.Components.Base;
 using Kingmaker.Utility;
 using System.Collections.Generic;
+/*
 using TabletopTweaks.NewRules;
 
 namespace TabletopTweaks.NewComponents.OwlcatReplacements {
@@ -53,3 +54,4 @@ namespace TabletopTweaks.NewComponents.OwlcatReplacements {
         public ActionList Actions;
     }
 }
+*/

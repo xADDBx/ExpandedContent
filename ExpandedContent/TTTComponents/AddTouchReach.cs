@@ -1,6 +1,7 @@
 ﻿using Kingmaker.Blueprints.JsonSystem;
 using Kingmaker.Enums;
 using Kingmaker.UnitLogic;
+/*
 using TabletopTweaks.NewUnitParts;
 
 namespace TabletopTweaks.NewComponents {
@@ -35,3 +36,4 @@ namespace TabletopTweaks.NewComponents {
         public ModifierDescriptor Descriptor;
     }
 }
+*/

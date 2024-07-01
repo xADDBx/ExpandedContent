@@ -12,7 +12,7 @@ namespace ExpandedContent.Tweaks.Miscellaneous {
     internal class AbilityDeliverProjectilePatch {
 
 
-        [HarmonyPatch(typeof(AbilityDeliverProjectile), "RangedHandOfTheApprentice", new Type[] {typeof(bool) })]
+        // [HarmonyPatch(typeof(AbilityDeliverProjectile), "RangedHandOfTheApprentice", new Type[] {typeof(bool) })]
 
 
     }

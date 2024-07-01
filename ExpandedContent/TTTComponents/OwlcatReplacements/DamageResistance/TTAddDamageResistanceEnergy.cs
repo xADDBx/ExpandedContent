@@ -7,6 +7,7 @@ using Kingmaker.RuleSystem.Rules.Damage;
 using Kingmaker.UnitLogic;
 using Kingmaker.UnitLogic.Mechanics;
 using Kingmaker.Utility;
+/*
 
 namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
     [ComponentName("Buffs/AddEffect/EnergyResistance")]
@@ -42,3 +43,4 @@ namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
         }
     }
 }
+*/

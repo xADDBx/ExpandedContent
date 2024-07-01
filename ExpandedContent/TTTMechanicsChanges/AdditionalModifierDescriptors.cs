@@ -5,6 +5,7 @@ using Kingmaker.Enums;
 using Kingmaker.Utility;
 using System;
 using System.Collections.Generic;
+/*
 using TabletopTweaks.Config;
 using TabletopTweaks.Extensions;
 using TabletopTweaks.Utilities;
@@ -156,3 +157,4 @@ namespace TabletopTweaks.MechanicsChanges {
         }
     }
 }
+*/

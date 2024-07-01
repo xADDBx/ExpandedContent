@@ -5,6 +5,7 @@ using Kingmaker.UnitLogic;
 using Kingmaker.UnitLogic.Abilities;
 using Kingmaker.UnitLogic.Abilities.Blueprints;
 using Kingmaker.UnitLogic.FactLogic;
+/*
 using TabletopTweaks.NewUnitParts;
 
 namespace TabletopTweaks.NewComponents {
@@ -51,3 +52,4 @@ namespace TabletopTweaks.NewComponents {
         }
     }
 }
+*/

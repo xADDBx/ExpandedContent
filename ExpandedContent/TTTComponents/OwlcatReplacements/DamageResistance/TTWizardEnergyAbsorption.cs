@@ -4,7 +4,7 @@ using Kingmaker.Blueprints.JsonSystem;
 using System;
 using UnityEngine;
 using UnityEngine.Serialization;
-
+/*
 namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
     [AllowedOn(typeof(BlueprintUnitFact), false)]
     [TypeId("38d9082bfa624e3ab039a6d810cf99db")]
@@ -41,3 +41,4 @@ namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
         }
     }
 }
+*/

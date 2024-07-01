@@ -4,6 +4,7 @@ using Kingmaker.EntitySystem;
 using Kingmaker.EntitySystem.Entities;
 using Kingmaker.UnitLogic;
 using Kingmaker.UnitLogic.Mechanics.Properties;
+/*
 using TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance;
 
 namespace TabletopTweaks.NewComponents.Properties {
@@ -27,3 +28,4 @@ namespace TabletopTweaks.NewComponents.Properties {
         }
     }
 }
+*/

@@ -5,6 +5,7 @@ using Kingmaker.UnitLogic.Abilities;
 using Kingmaker.UnitLogic.Abilities.Components;
 using System.Collections.Generic;
 using System.Linq;
+/*
 using TabletopTweaks.NewEvents;
 
 namespace TabletopTweaks.NewComponents {
@@ -38,3 +39,4 @@ namespace TabletopTweaks.NewComponents {
         public BlueprintCharacterClassReference m_CharacterClass;
     }
 }
+*/

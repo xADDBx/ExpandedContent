@@ -12,6 +12,7 @@ using Kingmaker.Utility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+/*
 using TabletopTweaks.Utilities;
 
 namespace TabletopTweaks.NewComponents {
@@ -116,3 +117,4 @@ namespace TabletopTweaks.NewComponents {
         }
     }
 }
+*/

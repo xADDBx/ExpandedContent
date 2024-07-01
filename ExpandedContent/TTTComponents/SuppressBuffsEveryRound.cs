@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Serialization;
-
+/*
 namespace TabletopTweaks.NewComponents {
     [TypeId("44703c29059c48f8bd7d398b874c708e")]
     class SuppressBuffsEveryRound : UnitFactComponentDelegate, ITickEachRound {
@@ -105,3 +105,4 @@ namespace TabletopTweaks.NewComponents {
 #pragma warning restore IDE0044 // Add readonly modifier
     }
 }
+*/

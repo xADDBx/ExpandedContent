@@ -5,7 +5,7 @@ using Kingmaker.PubSubSystem;
 using Kingmaker.RuleSystem.Rules.Damage;
 using Kingmaker.UnitLogic;
 using Kingmaker.UnitLogic.Mechanics;
-
+/*
 namespace TabletopTweaks.NewComponents {
     [AllowedOn(typeof(BlueprintUnitFact))]
     [TypeId("f9bd6635909c40e09c3f4a22b711945b")]
@@ -45,3 +45,4 @@ namespace TabletopTweaks.NewComponents {
         }
     }
 }
+*/

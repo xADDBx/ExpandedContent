@@ -9,6 +9,7 @@ using Kingmaker.UnitLogic.Mechanics;
 using Kingmaker.Utility;
 using Newtonsoft.Json;
 using System;
+/*
 using TabletopTweaks.NewUnitParts;
 
 namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
@@ -166,3 +167,4 @@ namespace TabletopTweaks.NewComponents.OwlcatReplacements.DamageResistance {
         }
     }
 }
+*/

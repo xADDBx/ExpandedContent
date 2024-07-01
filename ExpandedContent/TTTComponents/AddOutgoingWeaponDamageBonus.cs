@@ -3,6 +3,7 @@ using Kingmaker.PubSubSystem;
 using Kingmaker.RuleSystem;
 using Kingmaker.RuleSystem.Rules.Damage;
 using Kingmaker.UnitLogic;
+/*
 using TabletopTweaks.NewUnitParts;
 
 namespace TabletopTweaks.NewComponents {
@@ -71,3 +72,4 @@ namespace TabletopTweaks.NewComponents {
         public int BonusDamageMultiplier = 1;
     }
 }
+*/

@@ -4,7 +4,7 @@ using Kingmaker.Blueprints.JsonSystem;
 using Kingmaker.EntitySystem.Entities;
 using Kingmaker.UnitLogic;
 using Kingmaker.UnitLogic.Mechanics.Properties;
-
+/*
 namespace TabletopTweaks.NewComponents {
 
     [TypeId("83b5b02d9c3f4190be0eadbd2b14b23a")]
@@ -52,3 +52,4 @@ namespace TabletopTweaks.NewComponents {
         }
     }
 }
+*/

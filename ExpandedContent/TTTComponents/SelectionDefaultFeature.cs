@@ -10,7 +10,7 @@ using Kingmaker.Utility;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Serialization;
-
+/*
 namespace TabletopTweaks.NewComponents {
     [AllowMultipleComponents]
     [AllowedOn(typeof(BlueprintFeatureSelection))]
@@ -75,3 +75,4 @@ namespace TabletopTweaks.NewComponents {
         public bool Invert = false;
     }
 }
+*/
